@@ -42,7 +42,7 @@ My Father and I do a lot of things together. This certainly beats walking!
 I love to ski. I was nearly 8 years old here. "Valle" is about to fall on me.<br><br><br><br>
 <br><br><br><br><br>
 <p style="float: left; font-size:10pt; text-align: center; width: 48%; margin-right: 1%; margin-bottom: 0.5em;"><img src="assets/images/20151003_1049.jpg" class = "img-responsive" style="width:100%">From left-to-right: Isa, Me, Lia, Stella, and Isac below</p>
-Isa and Lia are my two cousins and we are on top of a hill near the home of my grandparents. Isac who is watching us closely, is a French bulldog that was on loan to us. <br><br><br><br><br><br><br><br>
+Isa and Lia are my cousins and we are on top of a hill near the home of my grandparents. Isac who is watching us closely, is a French bulldog that was on loan to us. <br><br><br><br><br><br><br><br>
 
 
 
