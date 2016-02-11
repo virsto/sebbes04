@@ -5,7 +5,7 @@ date: 2016-02-10 13:26:34
 categories: family personal
 featured_image: '/assets/images/Sebbe_Elli_Scaled_01.png'
 tags: boy dog friends
-lead_text: '<em>A house is not a home until it has a dog.</em> --- Gerald Durrell'
+lead_text: '<em>A house is not a home until it has a dog.</em> &mdash; Gerald Durrell'
 ---
 
 That's me on the left, with "my best friend" Elli!
@@ -46,7 +46,7 @@ Isa and Lia are my cousins and we are on top of a hill near the home of my grand
 
 
 
-I also have two neighbors that are very good friends --- Theo and his little brother, Philip. Theo is 4 months older than me and we run over to each other as fast as we can when we meet. I have several other friends; e.g. Oliver (son of my Mother's best friend Eva-Lotta). Oliver is 2 years older than me. Some of my closer schoolmates are: Macko (Marcus), Alvin, Felan (Felix), CC (Ceasar), Hampus, Arthur, Hugo, Ludvig S, Janne and Lugvig. My closest classmate is Vicke (Victor). We have known each other for our whole lives through our Mother's who are friends in the same parents group. Even my syster Stella and Clara (Vicke's sister) are close friends.
+I also have two neighbors that are very good friends &mdash; Theo and his little brother, Philip. Theo is 4 months older than me and we run over to each other as fast as we can when we meet. I have several other friends; e.g. Oliver (son of my Mother's best friend Eva-Lotta). Oliver is 2 years older than me. Some of my closer schoolmates are: Macko (Marcus), Alvin, Felan (Felix), CC (Ceasar), Hampus, Arthur, Hugo, Ludvig S, Janne and Lugvig. My closest classmate is Vicke (Victor). We have known each other for our whole lives through our Mother's who are friends in the same parents group. Even my syster Stella and Clara (Vicke's sister) are close friends.
 
 
 <p style="float: right; font-size: 10pt; text-align: center; width: 25%; margin-left: 1%; margin-bottom: 0.5em;"><img src="assets/images/Ingrid_Arne.jpg" class = "img-responsive" style="width:100%">My Mother's Grandparents</p>
