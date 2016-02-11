@@ -1,3 +1,5 @@
+---
+---
 main:
-    - { url: '/', text: 'Blog' }
-    - { url: '/about', text: 'About' }
+    - { url: '{{site.url}}/{{site.baseurl}}/', text: 'Blog' }
+    - { url: '{{site.url}}/{{site.baseurl}}/about', text: 'About' }
