@@ -1,8 +1,8 @@
----
+#---
 # Note: 
 #  url: '{{site.url}}/{{site.baseurl}}/', text: 'Blog'  will remove the Blog button
 #  url: '{{site.url}}/{{site.baseurl}}/about', text: 'About' will remove the About button
----
+#---
 main:
     - { url: '{{site.url}}/', text: 'Blog' }
     - { url: '{{site.url}}/about', text: 'About' }
