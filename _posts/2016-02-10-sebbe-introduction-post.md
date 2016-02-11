@@ -39,7 +39,7 @@ My Father and I do a lot of things together. This certainly beats walking!
 <br><br><br><br><br>
 
 <p style="float: right; font-size: 10pt; text-align: center; width: 25%; margin-right: 1%; margin-bottom: 0.5em;"><img src="assets/images/20150129_1400_RR.jpg" class = "img-responsive" style="width:100%">Skiing in Björnrike with "Valle" and Stella</p>
-I love to ski. I was nearly 8 years old here. <br><br><br><br>
+I love to ski. I was nearly 8 years old here. "Valle" is about to fall on me.<br><br><br><br>
 <br><br><br><br><br>
 <p style="float: left; font-size:10pt; text-align: center; width: 48%; margin-right: 1%; margin-bottom: 0.5em;"><img src="assets/images/20151003_1049.jpg" class = "img-responsive" style="width:100%">From left-to-right: Isa, Me, Lia, Stella, and Isac below</p>
 Isa and Lia are my two cousins and we are on top of a hill near the home of my grandparents. Isac who is watching us closely, is a French bulldog that was on loan to us. <br><br><br><br><br><br><br><br>
@@ -51,7 +51,7 @@ I also have two neighbors that are very good friends --- Theo and his little bro
 
 <p style="float: right; font-size: 10pt; text-align: center; width: 25%; margin-left: 1%; margin-bottom: 0.5em;"><img src="assets/images/Ingrid_Arne.jpg" class = "img-responsive" style="width:100%">My Mother's Grandparents</p>
 
-Two of my abolute most favorite people in the whole world are my Mother's gradparents. Sometimes I go home with them after school. It is is so nice there and they spoil me. I can always play Minecraft, eat dinner in front of the TV and eat some of my Grandfather's favorite candy, Riesen-kola.
+Two of my abolute most favorite people in the whole world are my Mother's gradparents. Sometimes I go home with them after school. It is so nice when they spoil me. I can always play Minecraft, eat dinner in front of the TV and eat some of my Grandfather's favorite candy, Riesen-kola.
 
 <!--
 Jag är också två jättebra kompisar som grannar. De heter Theo och Philip (lillebror). Vi springer över till varandra så fort vi kan (jag och Theo är nästan lika gamla, Theo är fyra månader äldre). Jag har andra vänner också:  bl.a Oliver, som är son till min mammas bästa vän Eva-Lotta. Han är två år äldre än jag. Mina andra klasskompisar är Macko (Marcus), Alvin, Felan (Felix), CC (Ceasar), Hampus, Arthur, Hugo, Ludvig S, Janne och Lugvig. Min bästa vän heter Vicke (Victor) och går i samma klass. Vi har känt varandra hela livet genom att min mamma och Victors mamma hamnade i samma föräldragrupp och blev vänner. Även våra lillasystrar är bästa vänner och går i samma klass (Stella och Clara).
