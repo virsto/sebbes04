@@ -28,7 +28,7 @@ That's me on the right taking a little dip. Splashing around in water is fun, bu
 <br><br><br><br><br><br>
 
 
-<p style="float: right; font-size: 10pt; text-align: center; width: 30%; margin-right: 1%; margin-bottom: 0.5em;"><img src="assets/images/20090709_0945.JPG" class = "img-responsive" style="width:100%">Cooking at 2</p>
+<p style="float: right; font-size: 10pt; text-align: center; width: 30%; margin-left: 1%; margin-bottom: 0.5em;"><img src="assets/images/20090709_0945.JPG" class = "img-responsive" style="width:100%">Cooking at 2 years old</p>
 You never know when you will need to prepare your own food. Umh... it looks like I may need a haircut.
 <br><br><br><br>
 
