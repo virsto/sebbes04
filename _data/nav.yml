@@ -6,5 +6,5 @@
 
 
 main:
-    - { url: '{{site.url}}/{{site.baseurl}}/', text: 'Blog' }
-    - { url: '{{site.url}}/about', text: 'About' }
+    - { url: 'http://virsto.github.io/sebbes04/', text: 'Blog' }
+    - { url: 'http://virsto.github.io/sebbes04/about', text: 'About' }
