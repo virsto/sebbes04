@@ -6,5 +6,5 @@
 
 ---
 main:
-    - { url: '{{site.url}}/', text: 'Blog' }
+    - { url: '{{site.url}}/{{site.baseurl}}/', text: 'Blog' }
     - { url: '{{site.url}}/about', text: 'About' }
