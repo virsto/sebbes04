@@ -8,7 +8,7 @@ tags: birthday video
 #featured_video_id: eY4yULVQqIA
 #featured_video_id: ej3ioOneTy8
 featured_video_id: IloLBM2WjXk
-lead_text: '<em> Birthdays are good for you. The more you have, the longer you live.</em>'
+lead_text: '<strong><em> Birthdays are good for you. The more you have, the longer you live.</em></strong>'
 ---
 
  This is a special day and special month &mdash; why? Special day, because it's my birthday and special month because this month has an extra day (2016 is a leap year).

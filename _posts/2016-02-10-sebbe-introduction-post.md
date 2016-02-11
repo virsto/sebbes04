@@ -5,7 +5,7 @@ date: 2016-02-10 13:26:34
 categories: family personal
 featured_image: '/assets/images/Sebbe_Elli_Scaled_01.png'
 tags: boy dog friends
-lead_text: '<em>A house is not a home until it has a dog.</em> &mdash; Gerald Durrell'
+lead_text: '<strong><em>A house is not a home until it has a dog.</em></strong> &mdash; Gerald Durrell'
 ---
 
 That's me on the left, with "my best friend" Elli!
