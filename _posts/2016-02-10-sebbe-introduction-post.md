@@ -49,9 +49,9 @@ Isa and Lia are my cousins and we are on top of a hill near the home of my grand
 I also have two neighbors that are very good friends &mdash; Theo and his little brother, Philip. Theo is 4 months older than me and we run over to each other as fast as we can when we meet. I have several other friends; e.g. Oliver (son of my Mother's best friend Eva-Lotta). Oliver is 2 years older than me. Some of my closer schoolmates are: Macko (Marcus), Alvin, Felan (Felix), CC (Ceasar), Hampus, Arthur, Hugo, Ludvig S, Janne and Lugvig. My closest classmate is Vicke (Victor). We have known each other for our whole lives through our Mother's who are friends in the same parents group. Even my syster Stella and Clara (Vicke's sister) are close friends.
 
 
-<p style="float: right; font-size: 10pt; text-align: center; width: 25%; margin-left: 1%; margin-bottom: 0.5em;"><img src="assets/images/Ingrid_Arne.jpg" class = "img-responsive" style="width:100%">My Mother's Grandparents</p>
+<p style="float: right; font-size: 10pt; text-align: center; width: 25%; margin-left: 1%; margin-bottom: 0.5em;"><img src="assets/images/Ingrid_Arne.jpg" class = "img-responsive" style="width:100%">Ingrid and Arne (My Mother's Grandparents)</p>
 
-Two of my abolute most favorite people in the whole world are my Mother's gradparents. Sometimes I go home with them after school. It is so nice when they spoil me. I can always play Minecraft, eat dinner in front of the TV and eat some of my Grandfather's favorite candy, Riesen-kola.
+Two of my absolute most favorite people in the whole world are my Mother's gradparents. Sometimes I go home with them after school. It is so nice when they spoil me. I can always play Minecraft, eat dinner in front of the TV and eat some of my Grandfather's favorite candy, Riesen-kola.
 
 <!--
 Jag är också två jättebra kompisar som grannar. De heter Theo och Philip (lillebror). Vi springer över till varandra så fort vi kan (jag och Theo är nästan lika gamla, Theo är fyra månader äldre). Jag har andra vänner också:  bl.a Oliver, som är son till min mammas bästa vän Eva-Lotta. Han är två år äldre än jag. Mina andra klasskompisar är Macko (Marcus), Alvin, Felan (Felix), CC (Ceasar), Hampus, Arthur, Hugo, Ludvig S, Janne och Lugvig. Min bästa vän heter Vicke (Victor) och går i samma klass. Vi har känt varandra hela livet genom att min mamma och Victors mamma hamnade i samma föräldragrupp och blev vänner. Även våra lillasystrar är bästa vänner och går i samma klass (Stella och Clara).
@@ -72,7 +72,7 @@ Jag gillar böcker jättemycket. Just nu läser jag Tsatsiki-serien och har äve
 -->
 
 
-I like programming, computer games (most of all, Minecraft), karate (I train twice per week), singing (I sing solo in school once per week). I like lego and like very much playing pingpong (I train each Saturday morning).
+I like programming, computer games (most of all, Minecraft), karate (I train twice per week), singing (I sing solo in school once per week). I like lego and like very much playing pingpong (I train each Saturday morning). If you wish to play a computer game that I wrote then <a href="https://studio.code.org/c/157018950">Click me</a>
 
 <!--
 Jag gillar programmering, dataspel (mest Minecraft), karate (jag tränar två gånger i veckan), sång (jag sjunger solosång i skolan en gång i veckan), jag älskar lego och spelar jättegärna pingis (tränar på lördagmorgnar). Here is a computer game that I programmed.
@@ -114,5 +114,3 @@ Repeat that for each image in the gallery, then, as usual, end the gallery with 
 <p style="float: left; font-size: 9pt; text-align: center; width: 25%; margin-right: 1%; margin-bottom: 0.5em;">  
 <img src="assets/images/1000.jpg" class = "img-responsive" style="width:100%">Happy Kittens-2</p>
 <!-- <p style="clear: both;"> -->
-
-
